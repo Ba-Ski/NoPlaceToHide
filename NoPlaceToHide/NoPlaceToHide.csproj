@@ -61,7 +61,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Ford-Fulkerson.cs">
+    <Compile Include="Edmonds-Karp.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Graph.cs" />

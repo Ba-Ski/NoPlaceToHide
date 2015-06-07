@@ -24,3 +24,6 @@ C:\Users\P\Dropbox\IT\Algorithms\NoPlaceToHide\NoPlaceToHide\obj\Debug\NoPlaceTo
 C:\Users\P\Dropbox\IT\Algorithms\NoPlaceToHide\NoPlaceToHide\obj\Debug\NoPlaceToHide.g.resources
 C:\Users\P\Dropbox\IT\Algorithms\NoPlaceToHide\NoPlaceToHide\obj\Debug\NoPlaceToHide.Properties.Resources.resources
 C:\Users\P\Dropbox\IT\Algorithms\NoPlaceToHide\NoPlaceToHide\obj\Debug\NoPlaceToHide.csproj.GenerateResource.Cache
+C:\Users\P\Dropbox\IT\Algorithms\Лаба4\NoPlaceToHide\NoPlaceToHide\bin\Debug\NoPlaceToHide.exe.config
+C:\Users\P\Dropbox\IT\Algorithms\Лаба4\NoPlaceToHide\NoPlaceToHide\obj\Debug\NoPlaceToHide.exe
+C:\Users\P\Dropbox\IT\Algorithms\Лаба4\NoPlaceToHide\NoPlaceToHide\obj\Debug\NoPlaceToHide.pdb

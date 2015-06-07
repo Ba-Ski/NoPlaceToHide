@@ -93,9 +93,9 @@ namespace NoPlaceToHide
 
             networkCanvas.Children.RemoveRange(0,networkCanvas.Children.Count);
 
-            FordFulkerson ff = new FordFulkerson();
+            EdmondsKarp ek = new EdmondsKarp();
             int[,] flow = new int[graph.vertciesCount(), graph.vertciesCount()];
-            var maxFlow = ff.getMaximumFlow(graph, capacity, ref flow, 0, 5);
+            var maxFlow = ek.getMaximumFlow(graph, capacity, ref flow, 0, 5);
 
             insertText(100, 65, flow[0,1].ToString() + "/" + capacity[0, 1].ToString(), Color.FromRgb(0, 0, 0));
             insertText(110, 195, flow[0, 2].ToString() + "/" + capacity[0, 2].ToString(), Color.FromRgb(0, 0, 0));
